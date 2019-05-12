@@ -1,0 +1,1 @@
+API desenvolvida em Ruby On Rails para consumo em uma aplicação MVP semelhante ao APP iFood.
